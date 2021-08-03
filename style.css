@@ -1,0 +1,42 @@
+
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(248, 219, 164);
+   
+}
+
+
+h1{
+    color: rgb(138, 26, 243);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+h3{
+    color: rgb(107, 150, 230);
+    text-align: center;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 500px;
+    height: 500px; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.pikachu{
+    color: rgb(214, 163, 34);
+    text-align: center;
+}
+.minion{
+    color: rgb(207, 198, 69);
+    text-align: center;
+}
