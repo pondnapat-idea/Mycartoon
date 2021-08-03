@@ -1,2 +1,2 @@
 # Mycartoon
- https://pondnapat-idea.github.io/Mycartoon/
+https://github.com/pondnapat-idea/Mycartoon/
